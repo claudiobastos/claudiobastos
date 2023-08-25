@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobastos)](https://github.com/claudiobastos/github-readme-stats)
+
+### 🧠 Languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobastos&hide=scss&layout=compact)
